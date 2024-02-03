@@ -15,12 +15,11 @@ Instalação
 
 1.  **Instale Go**: Certifique-se de ter o Go instalado em sua máquina. Você pode encontrar instruções de instalação em golang.org.
     
-2.  **Instale a CLI**: Clone este repositório e execute o seguinte comando para instalar a CLI:
+2.  **Instale a CLI**: Clone este repositório ou execute o seguinte comando para instalar a CLI:
     
-
-bashCopy code
-
-`go install github.com/brunobach/gobkp/cmd/gobkp@latest`
+```bash
+go install github.com/brunobach/gobkp/cmd/gobkp@latest
+```
 
 Uso
 ---
